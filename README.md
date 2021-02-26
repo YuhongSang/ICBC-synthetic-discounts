@@ -2,7 +2,7 @@
 
 未修改版源码，可直接在浏览器运行
 
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
+在线玩：[https://icbc-synthetic-discounts.vercel.app/](https://icbc-synthetic-discounts.vercel.app/)
 
 
 ### 本地启动
@@ -13,7 +13,7 @@
     npm run serve
     ```
 
-2. 进入 daxigua 目录，运行 serve：
+2. 进入 ICBC-synthetic-discounts 目录，运行 serve：
 
     ```bash
     serve
