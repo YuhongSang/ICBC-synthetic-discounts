@@ -987,9 +987,9 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    iwindow.location.href = "https://github.com/YuhongSang/ICBC-synthetic-discounts/blob/main/P2.jpg"
+                    img src = "P2.jpg"
                 }, t.prototype.bannerButtonFunc = function() {
-                    window.location.href = "https://github.com/YuhongSang/ICBC-synthetic-discounts/blob/main/P2.jpg"
+                    img src = "P2.jpg"
                 }, t.prototype.ShowFailedUi = function(e, t) {
                     var n = this;
                     this.scheduleOnce(function() {
